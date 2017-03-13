@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For MSmartServo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MSmartServo	KEYWORD1	MSmartServo
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readByte 				KEYWORD2
+readShort 				KEYWORD2
+readFloat 				KEYWORD2
+readLong 				KEYWORD2
+sendByte 				KEYWORD2
+sendShort 				KEYWORD2
+sendFloat 				KEYWORD2
+sendLong 				KEYWORD2
+assignDevIdRequest 		KEYWORD2
+moveTo 					KEYWORD2
+move 					KEYWORD2
+setZero 				KEYWORD2
+setBreak 				KEYWORD2
+setRGBLed 				KEYWORD2
+handSharke 				KEYWORD2
+setPwmMove 				KEYWORD2
+setInitAngle 			KEYWORD2
+getAngleRequest 		KEYWORD2
+getSpeedRequest 		KEYWORD2
+getVoltageRequest 		KEYWORD2
+getTempRequest 			KEYWORD2
+getCurrentRequest 		KEYWORD2
+assignDevIdResponse 	KEYWORD2
+processSysexMessage 	KEYWORD2
+smartServoEventHandle 	KEYWORD2
+errorCodeCheckResponse 	KEYWORD2
+smartServoCmdResponse 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
