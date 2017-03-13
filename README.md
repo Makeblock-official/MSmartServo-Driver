@@ -1,0 +1,17 @@
+MSmartServo Library v1.0.0
+
+Arduino Library for MSmartServo
+
+###How to use:
+
+Download the source from the git https://github.com/Makeblock-official/MSmartServo-Libraries
+
+copy the MSmartServo folder to your arduino default library. Your Arduino library folder should now look like this (on Windows): [arduino installation directory]\libraries\MSmartServo\src (on MACOS): [arduino Package Contents]\contents\Java\libraries\MSmartServo\src
+
+Open the Arduino Application. (If it’s already open, you will need to restart it to see changes.)
+
+Click "File→ Examples". Here are some test programs in "MSmartServo→"
+
+###Revision of history: |Author | Time | Version | Descr | | -------- | :-----: | :----: | :----- | |Watson | 2017/03/04 | 1.0.0 | Created the lib and examples code.|
+
+###Learn more from Makeblock official website: www.makeblock.com
